@@ -7,6 +7,9 @@ This Power BI dashboard delivers comprehensive insights into insurance operation
 <img width="767" height="467" alt="image" src="https://github.com/user-attachments/assets/e1e8c087-a831-4cdc-a6c0-bf7e17177358" />
 
 
+You can check out this full dahsboard and interact with it : 
+https://app.powerbi.com/groups/cfd490ee-976b-4452-91b6-7250222c73e0/reports/457592f5-76a1-4a13-b2d2-8effe9c42dee/7d3c66327514982d3794?experience=power-bi
+
 ## Key Features
 - Policy distribution and coverage analysis
 - Claims processing and settlement trends
@@ -32,4 +35,5 @@ This dashboard provides actionable insights on:
 
 
 ## Contact
-Questions or suggestions? Feel free to reach out!
+gmail: Fhassan3879@gmail.com
+
